@@ -1,0 +1,13 @@
+[{
+        "userId": "u_abcd1234",
+        "username": "Big Ben",
+        "longitude": -0.116773,
+        "latitude": 51.510357
+    },
+    {
+        "userId": "u_dcba4321",
+        "username": "Eiffel tower",
+        "longitude": 2.294694,
+        "latitude": 48.858093
+    }
+]
