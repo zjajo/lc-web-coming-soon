@@ -6,4 +6,4 @@ I have used coming soon template from: https://startbootstrap.com/template-overv
 If you want to reuse code, please check template licence.
 
 # How to use this code? 
-Please check my medium article on this link: https://medium.com/@armin.zjajo/quick-deployment-of-coming-soon-web-page-bc5e5e90eec1
+Please check my medium article on this link: https://medium.com/@eclypia/quick-deployment-of-coming-soon-web-page-bc5e5e90eec1
